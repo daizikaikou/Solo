@@ -1,4 +1,5 @@
 
+关于Solo:https://blog.csdn.net/qq_35885488/article/details/90918833
 
 SoloBlog , 该作者是在 [Forest](https://github.com/saysky/ForestBlog)博客系统基础上进行修改的。
 
